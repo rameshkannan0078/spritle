@@ -31,11 +31,12 @@ docker run -d -p 3001:3001 --name spritle_backend rameshkannan0078/spritle_backe
 1.)Make the path of frontend in cmd.
 ### npm install
 It will install all the packages of frontend
+### npm start
 
 http://localhost:3000
 
 2.)Make the path of Backend in cmd.
-
+### npm install
 ### node index.js
 
 It will install all the packages of backend
