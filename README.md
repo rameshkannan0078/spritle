@@ -19,12 +19,12 @@ I have maded JWT tokens for the API and also checked the edge cases of the appli
 
 3.)Run the Front End Using
 
-docker run -d -p 3000:3000 --name spritle rameshkannan0078/spritle:tagname
+### docker run -d -p 3000:3000 --name spritle rameshkannan0078/spritle:tagname
 
 
 4.)Run the Backend End Using
 
-docker run -d -p 3001:3001 --name spritle_backend rameshkannan0078/spritle_backend:tagname
+### docker run -d -p 3001:3001 --name spritle_backend rameshkannan0078/spritle_backend:tagname
 
 # Getting Started with Nodejs
 
